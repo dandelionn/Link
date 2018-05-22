@@ -1,0 +1,32 @@
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\ChatBoxScrollbar.csproj.GenerateResource.Cache
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\ChatBoxScrollbar.ImageResource.resources
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\ChatBoxScrollbar.dll
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\ChatBoxScrollbar.pdb
+D:\programare\internet break\ChatBox\ChatBoxScrollbar\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\internet break\ChatBox\ChatBoxScrollbar\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\internet break\ChatBox\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.ImageResource.resources
+D:\programare\internet break\ChatBox\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.csproj.GenerateResource.Cache
+D:\programare\internet break\ChatBox\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.dll
+D:\programare\internet break\ChatBox\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBoxScrollbar\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBoxScrollbar\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.ImageResource.resources
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.csproj.GenerateResource.Cache
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.dll
+D:\programare\PROJECT ALIEN MERCURY\SharedDoc\ChatBoxScrollbar\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.pdb
+D:\programare\AI\Link\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.dll
+D:\programare\AI\Link\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.pdb
+D:\programare\AI\Link\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.csprojResolveAssemblyReference.cache
+D:\programare\AI\Link\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.ImageResource.resources
+D:\programare\AI\Link\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.csproj.GenerateResource.Cache
+D:\programare\AI\Link\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.dll
+D:\programare\AI\Link\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\CustomWindow\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\CustomWindow\ChatBoxScrollbar\bin\Debug\ChatBoxScrollbar.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\CustomWindow\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\CustomWindow\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.ImageResource.resources
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\CustomWindow\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\CustomWindow\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\CustomWindow\ChatBoxScrollbar\obj\Debug\ChatBoxScrollbar.pdb

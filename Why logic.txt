@@ -1,0 +1,54 @@
+
+1 ----------------------------------------------------------------------------------------------------------------------------------------------------
+https://social.msdn.microsoft.com/Forums/windows/en-US/aaed00ce-4bc9-424e-8c05-c30213171c2c/flickerfree-painting?forum=winforms
+
+How to solve flickering problem:
+
+A frequently heard complaint at this forum is Windows Forms' tendency to cause "flicker" on forms with a lot of controls.  There are two causes for this kind of flicker: 
+
+1. Windows sends a control two messages when a control needs to be painted.  The first one (WM_ERASEBKGND) causes the background to be painted (OnPaintBackground), the second causes the foreground to be painted (WM_PAINT, firing OnPaint).  Seeing the background drawn first, then the foreground is noticeable when the drawing is slow.  Windows Forms has a ready solution for this kind of flicker with ControlStyles.OptimizedDoubleBuffer. 
+
+2. A form that has a lot of controls takes a long time to paint.  Especially the Button control in its default style is expensive.  Once you get over 50 controls, it starts getting noticeable.  The Form class paints its background first and leaves "holes" where the controls need to go.  Those holes are usually white, black when you use the Opacity or TransparencyKey property.  Then each control gets painted, filling in the holes.  The visual effect is ugly and there's no ready solution for it in Windows Forms.  Double-buffering can't solve it as it only works for a single control, not a composite set of controls. 
+
+I discovered a new Windows style in the SDK header files, available for Windows XP and (presumably) Vista: WS_EX_COMPOSITED.  With that style turned on for your form, Windows XP does double-buffering on the form and all its child controls.  This effectively solves the 2nd cause of flicker.  Here's an example: 
+
+using System; 
+using System.Drawing; 
+using System.Windows.Forms; 
+
+namespace WindowsApplication1 { 
+  public partial class Form1 : Form { 
+    public Form1() { 
+      InitializeComponent(); 
+      for (int ix = 0; ix < 30; ++ix) { 
+        for (int iy = 0; iy < 30; ++iy) { 
+          Button btn = new Button(); 
+          btn.Location = new Point(ix*10, iy*10); 
+          this.Controls.Add(btn); 
+        } 
+      } 
+    } 
+    protected override CreateParams CreateParams { 
+      get { 
+        CreateParams cp = base.CreateParams; 
+        cp.ExStyle |= 0x02000000; 
+        return cp; 
+      } 
+    } 
+  } 
+} 
+
+To see it at work, minimize and restore the form and observe its painting behavior.  Comment the cp.ExStyle assignment to see the difference.  All you have to do to use this in your own form is to copy and paste the CreateParams property. 
+
+Some caveats with this: this doesn't speed up the painting.  Your form just stays invisible while painting is taking place, then pops on the screen when it is done.  And it doesn't work when you use the Opacity or TransparencyKey property, the form outline will be visible as an ugly black rectangle while painting takes place.  The best solution for that is to use a timer to increment the Opacity value to 99% to make the form visible after it is painted. 
+
+I haven't experimented a great deal with this as yet, please post to this thread if you have problems using it.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Json.NET
+Json.NET is a popular high-performance JSON framework for .NET
+High performance: faster than .NET's built-in JSON serializers
+https://www.newtonsoft.com/json
+
+------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+/*string json = @"[{
+                    'Description': 'Attention in Neural Networks and How to Use It',
+                    'Links': 'http://akosiorek.github.io/ml/2017/10/14/visual-attention.html\nhttp://akosiorek.github.io/ml/2017/10/14/visual-attention.html'
+                },
+                {
+                    'Description': 'Attention in Neural Networks and How to Use It',
+                    'Links': 'http://akosiorek.github.io/ml/2017/10/14/visual-attention.html\nhttp://akosiorek.github.io/ml/2017/10/14/visual-attention.html'
+                }]";
+*/
+
+
+/*public void Read()
+{
+    JsonTextReader reader = new JsonTextReader(new StringReader(json));
+    while (reader.Read())
+    {
+        if (reader.Value != null)
+        {
+            Console.WriteLine("Token: {0}, Value: {1}", reader.TokenType, reader.Value);
+        }
+        else
+        {
+            //Console.WriteLine("Token: {0}", reader.TokenType);
+        }
+    }
+}*/

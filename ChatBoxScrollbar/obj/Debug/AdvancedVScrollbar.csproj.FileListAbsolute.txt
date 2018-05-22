@@ -1,0 +1,26 @@
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\clean\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\clean\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\clean\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.ImageResource.resources
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\clean\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.csproj.GenerateResource.Cache
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\clean\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\clean\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF a new beggining\syncronized scrolls\CodeEditor\clean\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.csprojResolveAssemblyReference.cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.ImageResource.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.csproj.GenerateResource.Cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\editor with vertical scrollbar\old, do not use\CodeEditor(no lineNumbering or extra lateral lines)\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.csprojResolveAssemblyReference.cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.ImageResource.resources
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.csproj.GenerateResource.Cache
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.dll
+D:\programare\WPF\syncronized scrolls\CodeEditor\MessageBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.pdb
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.dll
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\bin\Debug\AdvancedVScrollbar.pdb
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.ImageResource.resources
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.csproj.GenerateResource.Cache
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.dll
+D:\programare\internet break\ChatBox\AdvancedVScrollbar\AdvancedVScrollbar\obj\Debug\AdvancedVScrollbar.pdb

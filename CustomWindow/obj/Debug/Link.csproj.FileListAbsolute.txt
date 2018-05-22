@@ -1,0 +1,16 @@
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\Link.csprojResolveAssemblyReference.cache
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\CustomWindow.LinkItem.resources
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\CustomWindow.LinkList.resources
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\CustomWindow.MainForm.resources
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\Link.Properties.Resources.resources
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\Link.csproj.GenerateResource.Cache
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\Link.csproj.CoreCompileInputs.cache
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\bin\Debug\Link.exe.config
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\bin\Debug\Link.exe
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\bin\Debug\Link.pdb
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\bin\Debug\LinkScrollbar.dll
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\bin\Debug\Newtonsoft.Json.dll
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\bin\Debug\LinkScrollbar.pdb
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\bin\Debug\Newtonsoft.Json.xml
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\Link.exe
+F:\saved from ssd\Visual Studio 2017\Projects\Link\CustomWindow\obj\Debug\Link.pdb
